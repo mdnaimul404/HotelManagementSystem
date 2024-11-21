@@ -2,7 +2,7 @@
 
 Overview of the Project: 
  
-Our hotel management system is a desktop-based application designed to streamline and automate key hotel operations. The system manages essential data including guest reservations, room assignments, and staff responsibilities. It features modules for managing room availability, handling bookings, maintaining customer records, and tracking check-in and check-out activities. Integrated with manager, user, and room data, it provides an intuitive interface for staff to efficiently monitor hotel occupancy, enhance guest experiences, and ensure smooth day-to-day operations. This solution helps improve productivity and reduces manual errors, making hotel management more effective. 
+Hotel management system is a desktop-based application designed to streamline and automate key hotel operations. The system manages essential data including guest reservations, room assignments, and staff responsibilities. It features modules for managing room availability, handling bookings, maintaining customer records, and tracking check-in and check-out activities. Integrated with manager, user, and room data, it provides an intuitive interface for staff to efficiently monitor hotel occupancy, enhance guest experiences, and ensure smooth day-to-day operations. This solution helps improve productivity and reduces manual errors, making hotel management more effective. 
  
  
 Goals of the System 
